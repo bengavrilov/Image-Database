@@ -1,0 +1,17 @@
+i yellow round shiny i1.ppm
+i yellow round shiny i2.ppm
+i yellow round shiny i3.ppm
+i yellow round shiny i4.ppm
+i yellow round shiny i5.ppm
+i yellow round shiny i6.ppm
+i yellow round shiny i7.ppm
+i jack black mad i9.ppm
+i blue round shiny i8.ppm
+i jack black mad i10.ppm
+i hi hi hi hi hi
+i
+q yellow round shiny
+q
+q blue round shiny
+p
+q jack black mad
